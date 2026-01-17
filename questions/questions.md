@@ -1,7 +1,7 @@
 ---
 title: Strategic Questions Index
 summary: Numbered index of strategic questions for VP of Strategy role, organized by category.
-last_updated: 2025-01-16
+last_updated: 2026-01-16
 status: Active
 ---
 
@@ -27,21 +27,21 @@ To effectively serve as Vice President of Strategy for an ITSM platform, the fol
 7. What is each competitor's positioning, pricing model, and target segment? → [Answer](question_7.md)
 8. What are each competitor's key strengths and weaknesses? → [Answer](question_8.md)
 9. What recent strategic moves have competitors made (acquisitions, partnerships, product launches)? → [Answer](question_9.md)
-10. Where are competitors investing R&D resources?
+10. Where are competitors investing R&D resources? → [Answer](question_10.md)
 
 ### Buyer Behavior
-11. How do enterprises evaluate and purchase ITSM solutions today?
-12. Who comprises the typical buying committee (IT ops, CIO, procurement, end users)?
-13. What are typical deal cycles by segment?
-14. What triggers replacement decisions (contract renewal, digital transformation, M&A)?
-15. What are the most common objections during sales cycles?
+11. How do enterprises evaluate and purchase ITSM solutions today? → [Answer](question_11.md)
+12. Who comprises the typical buying committee (IT ops, CIO, procurement, end users)? → [Answer](question_12.md)
+13. What are typical deal cycles by segment? → [Answer](question_13.md)
+14. What triggers replacement decisions (contract renewal, digital transformation, M&A)? → [Answer](question_14.md)
+15. What are the most common objections during sales cycles? → [Answer](question_15.md)
 
 ---
 
 ## Product Knowledge
 
 ### Current Capabilities
-16. What is the complete feature inventory of the platform?
+16. What is the complete feature inventory of the platform? → [Answer](question_16.md)
 17. Where does the product excel relative to competitors?
 18. Where are the critical feature gaps?
 19. What is the platform's differentiated value proposition?
@@ -117,7 +117,14 @@ To effectively serve as Vice President of Strategy for an ITSM platform, the fol
 | 7 | ✓ Answered | 88% |
 | 8 | ✓ Answered | 88% |
 | 9 | ✓ Answered | 90% |
-| 10-53 | Pending | — |
+| 10 | ✓ Answered | 85% |
+| 11 | ✓ Answered | 88% |
+| 12 | ✓ Answered | 90% |
+| 13 | ✓ Answered | 88% |
+| 14 | ✓ Answered | 90% |
+| 15 | ✓ Answered | 88% |
+| 16 | ✓ Answered | 85% |
+| 17-53 | Pending | — |
 
 ---
 
