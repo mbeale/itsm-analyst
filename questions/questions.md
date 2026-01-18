@@ -42,7 +42,7 @@ To effectively serve as Vice President of Strategy for an ITSM platform, the fol
 
 ### Current Capabilities
 16. What is the complete feature inventory of the platform? → [Answer](question_16.md)
-17. Where does the product excel relative to competitors?
+17. Where does the product excel relative to competitors? → [Answer](question_17.md)
 18. Where are the critical feature gaps?
 19. What is the platform's differentiated value proposition?
 
@@ -124,7 +124,8 @@ To effectively serve as Vice President of Strategy for an ITSM platform, the fol
 | 14 | ✓ Answered | 90% |
 | 15 | ✓ Answered | 88% |
 | 16 | ✓ Answered | 85% |
-| 17-53 | Pending | — |
+| 17 | ✓ Answered | 88% |
+| 18-53 | Pending | — |
 
 ---
 
